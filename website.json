@@ -15,7 +15,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "บัญชีของท่านได้ผูกกับบัญชี Discord เป็นที่เรียบร้อย",
         "id": ""
     },
     "account.discord.link.btn": {
@@ -34,7 +34,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "เชื่อม",
         "id": ""
     },
     "account.discord.link.input-placeholder": {
@@ -53,7 +53,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "Discord Tag (ตัวอย่าง: myusername#1298)",
         "id": ""
     },
     "account.discord.link.invalidAID": {
@@ -72,7 +72,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "เกิดข้อผิดพลาด, AID ไม่ถูกต้อง",
         "id": ""
     },
     "account.discord.link.invalidTag": {
@@ -91,7 +91,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "Discord tag ไม่สามารถใช้งานได้",
         "id": ""
     },
     "account.discord.link.status-lib.0": {
@@ -110,7 +110,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "ท่านยังไม่ได้เชื่อมต่อบัญชี WF กับ Discord",
         "id": ""
     },
     "account.discord.link.status-lib.1": {
@@ -129,7 +129,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "บัญชีของท่านยังรอการยืนยันตัวตน.<br>โปรดพิมพ์บรรทัดต่อไปนี้ลงใน Discord ช่อง #server-exp",
         "id": ""
     },
     "account.discord.link.status-lib.2": {
@@ -148,7 +148,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "บัญชี Discord ของท่านได้เชื่อมต่อกับเกมเรียบร้อยแล้ว",
         "id": ""
     },
     "general.footer.rightreserved": {
@@ -186,7 +186,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "เปลี่ยนรหัสผ่าน",
         "id": ""
     },
     "login.forgot-pw.canceled": {
@@ -205,7 +205,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "การเปลีย่นรหัสผ่านถูกยกเลิก",
         "id": ""
     },
     "login.forgot-pw.emailVerification": {
@@ -224,7 +224,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "สวัสดี!<br><br>การขอเปลี่ยนรหัสผ่านได้ถูกส่งผ่าน Email นี้แล้ว.<br>ท่านสามารถเปลี่ยนได้ <a href=\"{0}\">ที่นี่</a><br><br>ถ้าท่านไม่ได้เป็นคนร้องขอการเปลี่ยนรหัสผ่าน, <a href=\"{1}\">กดที่นี่</a><br><br><br>",
         "id": ""
     },
     "login.forgot-pw.emailVerification.subject": {
@@ -243,7 +243,7 @@
         "ar": "",
         "it": "",
         "pl": "",
-        "th": "",
+        "th": "Wonderland Fantasy Password Forgoten",
         "id": ""
     },
     "login.forgot-pw.notify.mail-sent": {
